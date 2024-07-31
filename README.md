@@ -10,7 +10,6 @@ If you are looking for a specific implementation or usage of myRegElg, you may n
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>myRegElg</title>
     </head>
     <body>
         <h1>myRegElg</h1>
